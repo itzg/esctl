@@ -1,6 +1,6 @@
 # esctl
 
-[![Build Status](https://travis-ci.org/itzg/esctl.svg?branch=master)](https://travis-ci.org/itzg/esctl)
+Build:[![Circle CI](https://circleci.com/gh/itzg/esctl.svg?style=svg)](https://circleci.com/gh/itzg/esctl)
 
 CLI to view, query, and manage Elasticsearch
 
